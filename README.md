@@ -16,6 +16,6 @@
 * Multimodal
 
 ### Supplementary information:<br/>
->**main-models** : BERT, GPT, VGG V2<br/>
+>**main-models** : BERT, GPT, ViT<br/>
 >**dataset** : CLIP dataset<br/>
 >**training methods** : bert2bert trainer(a huggingface tool for seq2seq training), CLIP model  
