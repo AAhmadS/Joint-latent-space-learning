@@ -1,5 +1,5 @@
 # Joint latent space representation
-## NLP Course, CE Dept., Sharif University of Technology
+## Sharif University of Technology <br/> CE Dept. <br/> NLP Course<br/> Dr. E. Asgari
 
 **People involved :** <br/>
 >Amirahmad Shafiee<br/>
