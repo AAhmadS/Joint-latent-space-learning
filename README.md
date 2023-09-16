@@ -2,8 +2,8 @@
 ## NLP Course, CE Dept., Sharif University of Technology
 
 **People involved :** <br/>
->Amirahmad Shafiee
->Ali Shafiei
+>Amirahmad Shafiee<br/>
+>Ali Shafiei<br/>
 >Neda Fallah
 
 ### Description :
