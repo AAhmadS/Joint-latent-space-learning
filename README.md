@@ -15,7 +15,7 @@
 * Transformers
 * Multimodal
 
-### Supplementary information:
->**main-models** : BERT, GPT, VGG V2
->**dataset** : CLIP dataset
+### Supplementary information:<br/>
+>**main-models** : BERT, GPT, VGG V2<br/>
+>**dataset** : CLIP dataset<br/>
 >**training methods** : bert2bert trainer(a huggingface tool for seq2seq training), CLIP model  
